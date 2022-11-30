@@ -1,2 +1,2 @@
 # lse
-lse lista arquivos - list files
+lse é um software que lista arquivos e diretórios - list files
