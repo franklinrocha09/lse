@@ -1,2 +1,2 @@
 # lse
-lse lista arquivos
+lse lista arquivos - list files
