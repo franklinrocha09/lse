@@ -1,14 +1,8 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
 /* 
- * File:   lse.c // lsE
- * Version: 0.5 artigo LinuxMachine
- * Author: Franklin S Rocha
- * Programa: lista diretórios e arquivos
+ * File: lse.c
+ * Version: 0.9
+ * Author: Franklin Souza da Rocha
+ * Software: lse - lista arquivos e diretórios (list files)
  * Created on 28 de dezembro de 2020, 14:21
  */
 
